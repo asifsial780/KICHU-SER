@@ -22,7 +22,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Itsme-soman-KICHU-SER">KICHU-SER</a> to make it public
+Project created by <a href="https://github.com/Itsme-soman">KICHU-SER</a> to make it public
     <br>
        | © |
         Reserved |
