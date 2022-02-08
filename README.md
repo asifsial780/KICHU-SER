@@ -109,12 +109,12 @@ No personal support will be provided / We won't spoon feed you.
 If you need help
 you can contact 👇🏻👇🏻 
 ```
-**[![KICHU-SER](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](http://wa.me/917025631103?text=Can%20you%20help%20bro)**
+**[![KICHU-SER](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](http://wa.me/918714183251?text=Can%20you%20help%20bro)**
 
 ## Developers
   <div align="center">
     
-  [![KICHU-SER](https://github.com/Itsme-soman.png?size=100)](https://github.com/Itsme-soman) | [![Chunkindepadayali](https://github.com/Chunkindepadayali.png?size=100)](https://github.com/Ajx-Abu) 
+  [![KICHU-SER](https://github.com/Itsme-soman.png?size=100)](https://github.com/Itsme-soman) | [![Chunkindepadayali](https://github.com/Chunkindepadayali.png?size=100)](https://github.com/Chunkindepadayali) 
 ----|----|----|----
 [KICHU-SER](https://github.com/Itsme-soman) | [Chunkindepadayali](https://github.com/Chunkindepadayali)
 Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
