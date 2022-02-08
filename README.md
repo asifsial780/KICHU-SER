@@ -33,9 +33,9 @@ Project created by <a href="https://github.com/Itsme-soman">KICHU-SER</a> to mak
 <div align="center"> 
 
 
-## Click Instagram logo to follow this page👇
+## Click the instagram logo to follow this page👀✨
 
- [![ANY DOUBT REFER IT](https://i.imgur.com/cOevAnk.png)](https://instagram.com/its_me_dron)
+ [![ANY DOUBT REFER IT](https://i.imgur.com/cOevAnk.png)](https://instagram.com/kichu_nrd?utm_medium=copy_link)
 
   ### Simple Method
   
