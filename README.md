@@ -87,7 +87,7 @@ $ node julie.js
 Click WA logo to Join Support Group👇🏼
     <br>
 <br>
-  [![join](https://i.imgur.com/21zMdKL.png)](https://chat.whatsapp.com/DnHJu25Ccss7zn72nPhL8z)
+  [![join](https://i.imgur.com/21zMdKL.png)](https://chat.whatsapp.com/JnHetBYTBdb6Km2vNC12X3)
   <div align="center">
        
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Itsme-soman&repo=KICHU-SER&theme=nightowl)](https://github.com/Itsme-soman/KICHU-SER)
