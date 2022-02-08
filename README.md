@@ -114,9 +114,9 @@ you can contact 👇🏻👇🏻
 ## Developers
   <div align="center">
     
-  [![KICHU-SER](https://github.com/Itsme-soman.png?size=100)](https://github.com/Itsme-soman) | [![Ajx-Abu](https://github.com/Ajx-Abu.png?size=100)](https://github.com/Ajx-Abu) 
+  [![KICHU-SER](https://github.com/Itsme-soman.png?size=100)](https://github.com/Itsme-soman) | [![Chunkindepadayali](https://github.com/Chunkindepadayali.png?size=100)](https://github.com/Ajx-Abu) 
 ----|----|----|----
-[KICHU-SER](https://github.com/Itsme-soman) | [Ajx-Abu](https://github.com/Ajx-Abu)
+[KICHU-SER](https://github.com/Itsme-soman) | [Chunkindepadayali](https://github.com/Chunkindepadayali)
 Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
   </div>
     
