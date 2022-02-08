@@ -1,0 +1,5 @@
+build:
+  docker:
+      worker: /KICHU/Dockerfile
+run:
+   worker: npm start
