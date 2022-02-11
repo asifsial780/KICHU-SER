@@ -8,13 +8,13 @@ WhatsAsena - Yusuf Usta
 
 const chalk = require('chalk');
 const {WAConnection, MessageOptions, MessageType} = require('@adiwajshing/baileys');
-const {StringSession} = require('./KICHU/');
+const {StringSession} = require('./julie/');
 const fs = require('fs');
 
 async function whatsAsena () {
     const conn = new WAConnection();
     const Session = new StringSession();  
-    conn.version = [2, 2140, 12]
+    conn.version = [3, 3234,9]
     conn.logger.level = 'warn';
     conn.regenerateQRIntervalMs = 50000;
     
