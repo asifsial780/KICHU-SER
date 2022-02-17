@@ -8,9 +8,11 @@
  </a>
 </p>
 
+**[![KICHU-SER](https://i.imgur.com/8c02mRI.png)](http://wa.me/17623393587?text=*_Alo%20Kichu%20Vro%20I%20Need%20Ur%20Help%20Vro%20U%20Can%20Help%20Me?🙂_*)**
+
 <div align="center">
   <p align="center">
-<a href="https://github.com/Itsme-soman">KICHU-SER</a><img src=https://i.imgur.com/2V88P25.jpeg>
+<img src=https://i.imgur.com/2V88P25.jpeg>
 </p>
 
   <p align="center">
