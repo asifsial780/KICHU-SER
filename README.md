@@ -10,7 +10,7 @@
 
 <div align="center">
   <p align="center">
-<img src=https://i.imgur.com/2V88P25.jpeg>
+<a href="https://github.com/Itsme-soman">KICHU-SER</a><img src=https://i.imgur.com/2V88P25.jpeg>
 </p>
 
   <p align="center">
