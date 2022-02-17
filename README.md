@@ -3,17 +3,20 @@
 <img src=https://i.imgur.com/U5vuiAB.png>
 </p>
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=7500D1&lines=WELCOME+TO+KICHU-SER+WA+BOT+REPO;CREATED+BY+KICHU+SER;THIS+IS+A+USERBOT+PRIVATE+AND+PUBLIC+BOT;WITH+MORE+FEATURES)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=7500D1&lines=WELCOME+TO+KICHU-SER+WA+BOT+REPO;CREATED+BY+KICHU+SER;THIS+IS+A+PRIVATE+AND+PUBLIC+BOT;WITH+MORE+FEATURES)](https://git.io/typing-svg)
 
  </a>
 </p>
 
 **READ MUST!!!**
 
-**[If You Want Any Help Contact Me Click Here (Don't Spam Messages!) (I have more work to do, so don't say bad words to me, I'll block you directly if you say bad words to me😇)
-In Malayalam→നിങ്ങൾക്ക് എന്തെങ്കിലും സഹായം വേണമെങ്കിൽ  ഇവിടെ ക്ലിക്ക് ചെയ്യുക (സന്ദേശങ്ങൾ സ്പാം ചെയ്യരുത്!) (എനിക്ക് കൂടുതൽ ജോലികളുണ്ട്, തിരക്കിലാണ് അതിനാൽ എന്നോട് മോശമായ വാക്കുകൾ പറയരുത്, നിങ്ങൾ എന്നോട് മോശമായ വാക്കുകൾ പറഞ്ഞാൽ ഞാൻ നിങ്ങളെ നേരിട്ട് ബ്ലോക്ക് ചെയ്യും😇)](http://wa.me/17623393587?text=*_Alo%20Kichu%20Vro%20I%20Need%20Ur%20Help%20Vro%20U%20Can%20Help%20Me?🙂%20Vro%20I'm%20Waiting%20For%20Ur%20Reply😴✨_*)**
+**[ [INFORMATION!!]
+If You Want Any Help Contact Me Click Here (Don't Spam Messages!) (I have more work to do, so don't say bad words to me, I'll block you directly if you say bad words to me😇)
+In Malayalam ⇒ നിങ്ങൾക്ക് എന്തെങ്കിലും സഹായം വേണമെങ്കിൽ  ഇവിടെ ക്ലിക്ക് ചെയ്യുക (സന്ദേശങ്ങൾ സ്പാം ചെയ്യരുത്!) (എനിക്ക് കൂടുതൽ ജോലികളുണ്ട്, തിരക്കിലാണ് അതിനാൽ എന്നോട് മോശമായ വാക്കുകൾ പറയരുത്, നിങ്ങൾ എന്നോട് മോശമായ വാക്കുകൾ പറഞ്ഞാൽ ഞാൻ നിങ്ങളെ നേരിട്ട് ബ്ലോക്ക് ചെയ്യും😇)](http://wa.me/17623393587?text=*_Alo%20Kichu%20Vro%20I%20Need%20Ur%20Help%20Vro%20U%20Can%20Help%20Me?🙂%20Vro%20I'm%20Waiting%20For%20Ur%20Reply😴✨_*)**
 
-**Okay now click that information if u directly come to my pm**
+**Click on the information you want to contact me!**
+
+**നിങ്ങൾ എന്നെ ബന്ധപ്പെടാൻ ആഗ്രഹിക്കുന്നു ആ വിവരങ്ങളിൽ ക്ലിക്ക് ചെയ്യുക!**
 
 <div align="center">
   <p align="center">
