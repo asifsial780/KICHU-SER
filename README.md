@@ -103,7 +103,7 @@ Click WA logo to Join Support Group👇🏼
 
 ```
 By using kick, add, promote, demote Commands, Your WhatsApp account may be banned.
- we are not responsible for your account, 
+ we are not re https://github.com/Chunkindepaday.png?size=100 sponsible for your account, 
 This bot is intended for the purpose of having fun with some fun commands 
 and group management with some helpfull commands.
 
@@ -120,7 +120,8 @@ you can contact 👇🏻👇🏻
 ## Developers
   <div align="center">
     
-  [![KICHU-SER](https://github.com/Itsme-soman.png?size=100)](https://github.com/Itsme-soman) | [![Chunkindepadayali](https://github.com/Chunkindepadayali.png?size=100)](https://github.com/Chunkindepadayali) 
+  [![KICHU-SER](https://github.com/Itsme-soman.png?size=100)](https://github.com/Itsme-soman) | [![Chunkindepadayali](https://github.com/Chunkindepadayali.png?size=100)](https://github.com/Chunkindepadayali) | [![Abu-ser](https://github.com/Ajx-Abu.png?size=100)](https://github.com/Ajx-Abu) 
+
 ----|----|----|----
 [KICHU-SER](https://github.com/Itsme-soman) | [Chunkindepadayali](https://github.com/Chunkindepadayali)
 Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
