@@ -33,7 +33,7 @@ In Malayalam ⇒ നിങ്ങൾക്ക് എന്തെങ്കില�
 
 **Click here to contact me for any doubts 👇🏼**
 
-**[![KICHU-SER](pedikanda.png)](http://wa.me/17624757852?text=*_Alo%20Kichu%20Vro%20I%20Need%20Ur%20Help%20Vro%20U%20Can%20Help%20Me?🌈%20Vro%20I'm%20Waiting%20For%20Ur%20Reply😴💞_*)**
+**[![KICHU-SER](https://i.imgur.com/0aD122X.png)](http://wa.me/17624757852?text=*_Alo%20Kichu%20Vro%20I%20Need%20Ur%20Help%20Vro%20U%20Can%20Help%20Me?🌈%20Vro%20I'm%20Waiting%20For%20Ur%20Reply😴💞_*)**
 
 **Click on the click here you want to contact me!**
 
