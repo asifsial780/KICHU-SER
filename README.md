@@ -54,7 +54,7 @@ In Malayalam ⇒ നിങ്ങൾക്ക് എന്തെങ്കില�
 
 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Itsme-soman/KICHUSER)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Itsme-soman/KichuSer?v=1)
 
 Qr scan cheyyupol kurach time edukum qr varunath vare wait cheyyanam  [wait for get qr code]
   
