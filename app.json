@@ -8,7 +8,7 @@
     "success_url": "https://github.com/Itsme-soman/KICHU-SER",
     "stack": "container",
     "env": {
-        "KICHU_SESSION": {
+        "KICHUSER_CODE": {
             "description": "Type here yours Asena Session.",
             "required": true
         },
