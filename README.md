@@ -122,16 +122,11 @@ you can contact 👇🏻👇🏻
 **[![KICHU-SER](https://i.imgur.com/8c02mRI.png)](http://wa.me/918714183251?text=*_Hi%20kichu%20ser❤️✨_*)**
 
 ## Developers
-  <div align="center">
-    
-[![KICHU-SER](https://github.com/Itsme-soman.png?size=100)](https://github.com/Itsme-soman) | [![Chunkindepadayali](https://github.com/Chunkindepadayali.png?size=100)](https://github.com/Chunkindepadayali) | [![Abu-ser](https://github.com/Ajx-Abu.png?size=100)](https://github.com/Ajx-Abu) 
 
+[![KICHU-SER](https://github.com/Itsme-soman.png?size=100)](https://github.com/Itsme-soman) | [![Chunkindepadayali](https://github.com/Chunkindepadayali.png?size=100)](https://github.com/Chunkindepadayali) | [![Abu-ser](https://github.com/Ajx-Abu.png?size=100)](https://github.com/Ajx-Abu)
 ----|----|----
 [KICHU-SER](https://github.com/Itsme-soman) | [Chunkindepadayali](https://github.com/Chunkindepadayali) | [Abu-ser](https://github.com/Ajx-Abu)
 Developer, Base, Bug Fixes, Modules| Bug Fixes, Modules, Commits |  Modifiying  as   public | Re-Developer, Bug Fixes, Modules 
-  </div>
-    
-
 
 ## License
 This project is protected by `GNU General Public Licence v3.0` license.
