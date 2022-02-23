@@ -115,6 +115,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         console.log(
             chalk.blueBright.italic('⬇️ Installing external plugins...')
         );
+    });
 
         var plugins = await plugindb.PluginDB.findAll();
         plugins.map(async (plugin) => {
