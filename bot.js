@@ -111,11 +111,10 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
     conn.on('open', async () => {
         console.log(
             chalk.green.bold('✅ Login successful!')
-             
+          );
         console.log(
             chalk.blueBright.italic('⬇️ Installing external plugins...')
         );
-    });
 
         var plugins = await plugindb.PluginDB.findAll();
         plugins.map(async (plugin) => {
