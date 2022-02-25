@@ -147,7 +147,7 @@
         "BGM_DURATION": {
             "description": "FUNY BGM DURATION  codded by (hunk!nd3 p4d4y41!",
             "required": false,
-            "value": "99999935"
+            "value": "359999999"
         },
         "WORK_TYPE": {
             "description": "Kichu Ser Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
