@@ -263,7 +263,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                             if (config.NOLOG === 'off') {
                                 
                                 await conn.sendMessage(conn.user.jid, '*~_________~ KichuSer ~______~*' +
-                                    '\n*🌀 Join this group other wise chance to get error : https://chat.whatsapp.com/IGF65nLxwPeITjnZlUbnr4*' +
+                                    '\n*🌀 Join this group other wise chance to get error :\nchat.whatsapp.com/IGF65nLxwPeITjnZlUbnr4 ' +
                                     '\n\n*⚠️ ' + error + '*\n'
                                     , MessageType.text);
                             }
