@@ -11,11 +11,11 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
 
     await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*Github* *(setup)* : *https://github.com/Itsme-soman/KICHU-SER*
 
-*Audio comnds* : *https://github.com/Itsme-soman/KICHU-SER/tree/master/uploads*
-
 *Whatsapp group* : *https://chat.whatsapp.com/GgHXTY2Wo4rBhZGn8W2r9b*
 
-*Sticker cmnds* : *https://github.com/Itsme-soman/KICHU-SER/tree/master/stickers*
+*Audio comnds* : *https://github.com/Itsme-soman/medias/tree/master/uploads*
+
+*Sticker cmnds* : *https://github.com/Itsme-soman/medias/tree/master/stickers*
 `}) 
 
 }));
