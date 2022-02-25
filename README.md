@@ -10,7 +10,7 @@
 
 <div align="center">
   <p align="center">
-<img src=https://i.imgur.com/2V88P25.jpeg>
+<img src=https://i.imgur.com/2V88P25.jpeg sizealt="JPEG" width="200" height="200"/>
 </p>
 
   <p align="center">
@@ -45,7 +45,7 @@ In Malayalam ⇒ നിങ്ങൾക്ക് എന്തെങ്കില�
 
 ## Click the instagram logo to follow this page👀✨
 
- [![ANY DOUBT REFER IT](https://i.imgur.com/cOevAnk.png)](https://instagram.com/kichu_nrd?utm_medium=copy_link)
+ [![ANY DOUBT REFER IT](https://i.imgur.com/cOevAnk.png?size=10)](https://instagram.com/kichu_nrd?utm_medium=copy_link)
 
   ### Simple Method
   
