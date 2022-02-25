@@ -1,29 +1,21 @@
 const Asena = require('../events');
 const {MessageType, MessageOptions, Mimetype} = require('@adiwajshing/baileys');
 const axios = require('axios');
-const config = require('../config');
-const fs = require("fs")
+
 const Language = require('../language');
-const Lang = Language.getString('gitlink');
+const Lang = Language.getString('wallpaper');
 
-Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message, match) => {
+Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the bot"}, (async (message, match) => {
 
-    var respoimage = await axios.get(config.KICHU, { responseType: 'arraybuffer' })
+    var skl = await axios.get("https://i.imgur.com/2V88P25.jpeg", { responseType: 'arraybuffer' })
 
+    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*Github* *(setup)* : *https://github.com/Itsme-soman/KICHU-SER*
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {quoted: message.data , thumbnail: fs.readFileSync('https://i.imgur.com/2V88P25.jpeg'), mimetype: Mimetype.png, caption: `~*«------Links------»*~
- 
-*owner number: wa.me/918714183251*
+*Audio comnds* : *https://github.com/Itsme-soman/KICHU-SER/tree/master/uploads*
 
-*owner number: wa.me/919961857267*
-   
-*owner number: wa.me/918075379950*
+*Whatsapp group* : *https://chat.whatsapp.com/GgHXTY2Wo4rBhZGn8W2r9b*
 
-
-*whatsapp group : https://chat.whatsapp.com/GgHXTY2Wo4rBhZGn8W2r9b*
-
-
-*githublink       _https://github.com/Itsme-soman/KICHU-SER_*    
+*Sticker cmnds* : *https://github.com/Itsme-soman/KICHU-SER/tree/master/stickers*
 `}) 
 
-})); 
+}));
