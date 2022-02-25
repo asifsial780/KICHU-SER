@@ -220,7 +220,7 @@
         "sticker": {
             "STICKER_DESC": "It converts your replied photo or video to sticker.",
             "NEED_REPLY": "*Reply to a photo or video!*",
-            "DOWNLOADING": "```Converting..✨️```"
+            "DOWNLOADING": "```KichuSer is Converting To Sticker..✨️```"
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",
@@ -243,7 +243,7 @@
         "updater": {
             "UPDATER_DESC": "Checks the update.",
             "UPDATE": "*Your bot is completely up-to-date!*",
-            "NEW_UPDATE": "*New update available for Bot!*\n\n*To update Bot give this command: .update now*\n\n*Supporting Group Join First: https://chat.whatsapp.com/DnHJu25Ccss7zn72nPhL8z*\n\nChanges:\n```",
+            "NEW_UPDATE": "*New update available for Bot!*\n\n*To update Bot give this command: .update now*\n\n*Supporting Group Join First: http://chat.whatsapp.com/IGF65nLxwPeITjnZlUbnr4*\n\nChanges:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
             "UPDATING": "*Kichu Ser is updating..🥵🚶🏻‍♂️*",
             "INVALID_HEROKU": "*❌ Your Heroku app name or api key wrong!*",
