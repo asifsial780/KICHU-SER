@@ -220,7 +220,7 @@
         "sticker": {
             "STICKER_DESC": "It converts your replied photo or video to sticker.",
             "NEED_REPLY": "*Reply to a photo or video!*",
-            "DOWNLOADING": "```KichuSer is Converting To Sticker..✨️```"
+            "DOWNLOADING": "```kichuSer is converting To sticker...!```"
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",
