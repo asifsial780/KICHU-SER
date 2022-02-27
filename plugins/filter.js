@@ -155,14 +155,14 @@ Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
     if(Config.AUTOSTICKER){
     let banned = jid.find( Jid => Jid === message.jid);
     if(banned !== undefined) return
-    if (!!message.mention && message.mention[0] == '9199@s.whatsapp.net') {
-await message.client.sendMessage(message.jid, fs.readFileSync('./sticker/song.webp'), MessageType.sticker, { mimetype: Mimetype.webp, quoted : message.data, ptt: false})
+    if (!!message.mention && message.mention[0] == '919961857267@s.whatsapp.net') {
+await message.client.sendMessage(message.jid, fs.readFileSync('./medias/stickers/git.webp'), MessageType.sticker, { mimetype: Mimetype.webp, quoted : message.data, ptt: false})
     }
 const array = [,'ano','Da','Di','git','help','Hlo','line','my','mass','menu','Mm','mp3','Ok','owner','pm','song','tha','update','thanks','wait']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
-   await message.client.sendMessage(message.jid, fs.readFileSync('./sticker/' + a + '.webp'), MessageType.sticker, { mimetype: Mimetype.webp, quoted: message.data, ptt: false})
+   await message.client.sendMessage(message.jid, fs.readFileSync('./medias/stickers/' + a + '.webp'), MessageType.sticker, { mimetype: Mimetype.webp, quoted: message.data, ptt: false})
 }
 });
 }
