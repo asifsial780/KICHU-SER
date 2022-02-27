@@ -28,13 +28,13 @@ Asena.addCommand({pattern: 'setvar', fromMe: false, desc: Lang.WP}, (async (mess
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━💘SETVAR💘━━⛦
 
-```Hi im kichuser bot🤡```
+Hi im kichuser bot🤡
 
   
 
 *ẉa.me/➳Setvar*
 
-■□■□■□■□■□■□■□■□■□■□
+■□■□■□■□■□■□■□■□■□■
 
 All setvars are
 
