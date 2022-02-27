@@ -57,7 +57,7 @@ Asena.addCommand({on: 'text', fromMe: false }, (async (message, match) => {
         if (!!message.mention && message.mention[0] == '919961857267@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./medias/uploads/list.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted : message.data, ptt: true})
         }
-const array = ['list','pm']
+const array = ['list','pm','Bot','bot','thakku','soman','kichu','Thakku','Mrng','line','Fayas']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
@@ -121,7 +121,7 @@ Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
 await message.client.sendMessage(message.jid, fs.readFileSync('./medias/uploads/abhay.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,duration: Config.SAID, quoted : message.data, ptt: true})
         }
         if (!!message.mention && message.mention[0] == '919961857267@s.whatsapp.net') {
-await message.client.sendMessage(message.jid, fs.readFileSync('./medias/uploads/list.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,duration: Config.SAID, quoted : message.data, ptt: true})
+await message.client.sendMessage(message.jid, fs.readFileSync('./medias/uploads/Fayas.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,duration: Config.SAID, quoted : message.data, ptt: true})
         }
         if (!!message.mention && message.mention[0] == '919074106983@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./medias/uploads/abhi.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,duration: Config.SAID, quoted : message.data, ptt: true})
@@ -131,7 +131,7 @@ await message.client.sendMessage(message.jid, fs.readFileSync('./medias/uploads/
         }
 
 
-const array = ['list','pm']
+const array = ['list','soman','thakku','kichu','bot','Bot','pm','Thakku','Bot','Fayas','line','Mrng']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
