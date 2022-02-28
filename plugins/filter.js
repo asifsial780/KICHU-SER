@@ -67,7 +67,7 @@ await message.client.sendMessage(message.jid, fs.readFileSync('./media/uploads/a
 await message.client.sendMessage(message.jid, fs.readFileSync('./media/uploads/abhay.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted : message.data, ptt: true})
         }
 
-const array = ['list','pm','kichu','soman','thakku','Thakku','Bot','bot','line','Mrng','Fayas']
+const array = ['list','pm','kichu','soman','thakku','Thakku','Bot','bot','line','Mrng','Fayas','alone','avl','ayyo','broken','bye','chekka','Da','Ente','fuck','git','Ha','Hm','Kichu','Koi','kozhi','Line','love','lub','Makry','menu','Mm','mone','mp3','name','nanba','nanban','owner','pinnala','Poda','sad','sed','song','thug','tharan','tnx','u','umbi','Love','Kozhi','Hi','hi']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
@@ -106,7 +106,7 @@ await message.client.sendMessage(message.jid, fs.readFileSync('./media/uploads/a
 await message.client.sendMessage(message.jid, fs.readFileSync('./media/uploads/abhay.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted : message.data, ptt: true})
         }
         var uri = encodeURI(match[1])
-const array = ['list','pm','kichu','soman','Thakku','thakku','Bot','bot','line','Mrng','Fayas']
+const array = ['list','pm','kichu','soman','Thakku','thakku','Bot','bot','line','Mrng','Fayas','alone','avl','ayyo','broken','bye','chekka','Da','Ente','fuck','git','Ha','Hm','Kichu','Koi','kozhi','Line','love','lub','Makry','menu','Mm','mone','mp3','name','nanba','nanban','owner','pinnala','Poda','sad','sed','song','thug','tharan','tnx','u','umbi','Love','Kozhi','Hi','hi']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
@@ -134,7 +134,7 @@ Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
     if (!!message.mention && message.mention[0] == '919747671488@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./medias/stickers/abhay.webp'), MessageType.sticker, { mimetype: Mimetype.webp, quoted : message.data, ptt: false})
     }
-const array = ['Da','git','Di','ano','help','Hlo','mass','menu','line','Mm','mp3','my','Ok','owner','pm','song','tha','thanks','update','wait']
+const array = ['Da','git','Di','ano','help','Hlo','mass','menu','line','Mm','mp3','my','Ok','owner','pm','song','tha','thanks','update','wait','andi','avan','ban','chunni','da','ee','enik','food','fuck','habibi','heart','Hi','killadi','list','love','lyf','mandan','Mrng','myr','nale','nee','net','ni','nyt','ok','photo','poda','sneham','thakku','tts','umbi','girl','smile','alone','nokk','ninte','kichu','umma','what','bgm','myre','koch','line','ne','alive','Fayas','ada','kunna','uyir','eda','i','sry','mess','Kichu','Line']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
