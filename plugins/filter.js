@@ -67,7 +67,7 @@ await message.client.sendMessage(message.jid, fs.readFileSync('./media/uploads/a
 await message.client.sendMessage(message.jid, fs.readFileSync('./media/uploads/abhay.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted : message.data, ptt: true})
         }
 
-const array = ['list','pm','kichu','soman','thakku','Thakku','Bot','bot','line','Mrng','Fayas','alone','avl','ayyo','broken','bye','chekka','Da','Ente','fuck','git','Ha','Hm','Kichu','Koi','kozhi','Line','love','lub','Makry','menu','Mm','mone','mp3','name','nanba','nanban','owner','pinnala','Poda','sad','sed','song','thug','tharan','tnx','u','umbi','Love','Kozhi','Hi','hi']
+const array = ['list','pm','kichu','soman','thakku','Thakku','Bot','bot','line','Mrng','Fayas','alone','avl','ayyo','broken','bye','chekka','Da','Ente','fuck','git','Ha','Hm','Kichu','Koi','kozhi','Kichu','Line','love','lub','Makry','menu','Mm','mone','mp3','name','nanba','nanban','owner','pinnala','Poda','sad','sed','song','thug','tharan','tnx','u','umbi','Love','Kozhi','Hi','hi']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
@@ -106,7 +106,7 @@ await message.client.sendMessage(message.jid, fs.readFileSync('./media/uploads/a
 await message.client.sendMessage(message.jid, fs.readFileSync('./media/uploads/abhay.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted : message.data, ptt: true})
         }
         var uri = encodeURI(match[1])
-const array = ['list','pm','kichu','soman','Thakku','thakku','Bot','bot','line','Mrng','Fayas','alone','avl','ayyo','broken','bye','chekka','Da','Ente','fuck','git','Ha','Hm','Kichu','Koi','kozhi','Line','love','lub','Makry','menu','Mm','mone','mp3','name','nanba','nanban','owner','pinnala','Poda','sad','sed','song','thug','tharan','tnx','u','umbi','Love','Kozhi','Hi','hi']
+const array = ['list','pm','kichu','soman','Thakku','thakku','Bot','bot','line','Mrng','Fayas','alone','avl','ayyo','broken','bye','chekka','Da','Ente','fuck','git','Ha','Hm','Kichu','Koi','kozhi','Kichu','Line','love','lub','Makry','menu','Mm','mone','mp3','name','nanba','nanban','owner','pinnala','Poda','sad','sed','song','thug','tharan','tnx','u','umbi','Love','Kozhi','Hi','hi']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
