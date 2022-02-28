@@ -32,7 +32,7 @@ Neotro.addCommand({pattern: 'menu', fromMe: false, dontAddCommandList: true}, (a
        
        const button = {
         buttonText: 'CLICK HERE',
-        description: "KICHU SER BOT\n\nmenu message\n\n©ᴋɪᴄʜᴜꜱᴇʀ",
+        description: "KICHU SER BOT\n\n©ᴋɪᴄʜᴜꜱᴇʀ",
         sections: sections,
         listType: 1
        }
