@@ -25,19 +25,9 @@ Project created by <a href="https://github.com/Itsme-soman">KICHU-SER</a> to mak
     <br> 
 </p>
 
-**READ MUST!!!**
-
-**[INFORMATION!]
-If You Want Any Help Contact Me (Don't Spam Messages!) (I have more work to do, so don't say bad words to me, I'll block you directly if you say bad words to me!)
-In Malayalam ⇒ നിങ്ങൾക്ക് എന്തെങ്കിലും സഹായം വേണമെങ്കിൽ  ഇവിടെ ക്ലിക്ക് ചെയ്യുക (സന്ദേശങ്ങൾ സ്പാം ചെയ്യരുത്!) (എനിക്ക് കൂടുതൽ ജോലികളുണ്ട്, തിരക്കിലാണ് അതിനാൽ എന്നോട് മോശമായ വാക്കുകൾ പറയരുത്, നിങ്ങൾ എന്നോട് മോശമായ വാക്കുകൾ പറഞ്ഞാൽ ഞാൻ നിങ്ങളെ ബ്ലോക്ക് ചെയ്യും!)]**
-
-**Click here to contact me for any doubts 👇🏼**
-
 **[![KICHU-SER](https://i.imgur.com/0aD122X.png)](http://wa.me/17624757852?text=*_Alo%20Kichu%20Vro%20I%20Need%20Ur%20Help%20Vro%20U%20Can%20Help%20Me?🌈%20Vro%20I'm%20Waiting%20For%20Ur%20Reply😴💞_*)**
 
 **Click on the click here you want to contact me!**
-
-**നിങ്ങൾ എന്നെ ബന്ധപ്പെടാൻ ആഗ്രഹിക്കുന്നു ആ വിവരങ്ങളിൽ ക്ലിക്ക് ചെയ്യുക!**
 
 ## Setup
 <div align="center"> 
@@ -56,7 +46,19 @@ In Malayalam ⇒ നിങ്ങൾക്ക് എന്തെങ്കില�
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Itsme-soman/kichuser?v=1)
 
-Qr scan cheyyupol kurach time edukum qr varunath vare wait cheyyanam  [wait for get qr code]
+  ### If there is an error deploying, try the following steps
+  
+1. If you dont have a github account create a account. Click [GIT HUB SIGN UP](https://github.com/signup/)
+
+2. Open the WhatsApp account where you want to create the bot and go into the link device and SCAN the QR code Click [SCAN](https://replit.com/@chunkindepadayali/LizaMwol?v=1)
+ 
+3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
+
+4. You will have to fork this git to deploy via Heroku.
+  click to fork the git into your account
+ Click [FORK](https://github.com/Itsme-soman/KICHU-SER/fork)
+
+5. Now https://heroku.com/deploy?template=https://github.com/Itsme-soman/KICHU-SER copy this url and change Itsme-soman with your github username and click go<br>
   
 ### The Hard Method
 ```js
