@@ -4,7 +4,7 @@ julie
 const fs = require('fs')
 const Asena = require('../events');
 const {MessageType, Mimetype } = require('@adiwajshing/baileys');
-const FilterDb = require('./sql/filter');
+const FilterDb = require('./sql/filters');
 const Config = require('../config')
 const jid = Config.DISBGM !== false ? Config.DISBGM.split(',') : [];
 const afn = Config.PLKS !== false ? Config.PLKS.split(',') : [];
