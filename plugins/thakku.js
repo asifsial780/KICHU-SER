@@ -24,8 +24,8 @@ Neotro.addCommand({pattern: 'git', fromMe: false, dontAddCommandList: true}, (as
         {title: 'Gɪᴛ', description: "Gɪᴛ Lɪɴᴋ.\n\n\n*◁ === Gɪᴛ Lɪɴᴋ === ▷*\n\nhttps://github.com/Itsme-soman/KICHU-SER\n\n ", rowId:"rowid2"},
         {title: 'Kɪᴄʜᴜ Sᴇʀ Bᴏᴛ Gʀᴘ Lɪɴᴋ', description: "Gʀᴏᴜᴘ Lɪɴᴋ .\n\n\nhttps://chat.whatsapp.com/GgHXTY2Wo4rBhZGn8W2r9b\n\n ", rowId:" rowid5"},
         {title: 'Kɪᴄʜᴜ Sᴇʀ Cʜᴀɴɴᴇʟ Lɪɴᴋ ', description: "Kɪᴄʜᴜ Sᴇʀ Bᴏᴛ Mᴀᴋɪɴɢ Vɪᴅᴇᴏ\n\n\n*Sᴜʙsᴄʀɪʙᴇ Cʜᴀɴɴᴇʟ*\n\n*Is ᴄᴏᴍɪɴɢ ᴡᴀɪᴛ!* ", rowId:" rowid6"},
-        {title: 'Kɪᴄʜᴜ Sᴇʀ Eʀʀᴏʀ Fɪxɪɴɢ Aɴᴅ Nᴇᴡ Uᴘᴅᴀᴛᴇs Aɴɴᴏᴜɴᴄᴇᴍᴇɴᴛ Gʀᴏᴜᴘ', description: "Lɪɴᴋ \n\n\nhttps://chat.whatsapp.com/FkUTQZLhA0r2VuCz8XZjcC\n\n ", rowId:" rowid7"}
-        {title: 'Sᴜᴘᴘᴏʀᴛɪɴɢ Gʀᴏᴜᴘ Lɪɴᴋ', description: "Lɪɴᴋ \n\n\nhttps://chat.whatsapp.com/Hnqa6MHlhDe19e4Jt1YGeK\n\n ", rowId:" rowid8"}
+        {title: 'Kɪᴄʜᴜ Sᴇʀ Eʀʀᴏʀ Fɪxɪɴɢ Aɴᴅ Nᴇᴡ Uᴘᴅᴀᴛᴇs Aɴɴᴏᴜɴᴄᴇᴍᴇɴᴛ Gʀᴏᴜᴘ', description: "Lɪɴᴋ \n\n\nhttps://chat.whatsapp.com/FkUTQZLhA0r2VuCz8XZjcC ", rowId:" rowid7"}
+        {title: 'Sᴜᴘᴘᴏʀᴛɪɴɢ Gʀᴏᴜᴘ Lɪɴᴋ', description: "Lɪɴᴋ \n\n\nhttps://chat.whatsapp.com/Hnqa6MHlhDe19e4Jt1YGeK ", rowId:" rowid8"}
        ]
        
        const sections = [{title: "𝙺𝚒𝚌𝚑𝚞 𝚂𝚎𝚛❤️", rows: rows}]
