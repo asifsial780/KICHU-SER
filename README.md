@@ -105,9 +105,13 @@ $ node julie.js
 Click WA logo to Join Support Group👇🏼
     <br>
 <br>
-  [![join](https://i.imgur.com/21zMdKL.png)](https://chat.whatsapp.com/JnHetBYTBdb6Km2vNC12X3)
-  <div align="center">
-       
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF0000&size=30&center=true&vCenter=true&lines=IF+YOU+GOT+;ANY+ERROR;YOU+CAN+JOIN+ON+WHATSAPP+GOURP...!)](https://git.io/typing-svg)
+</p>
+    
+<p align="center">
+
+<a href="https://chat.whatsapp.com/FkUTQZLhA0r2VuCz8XZjcC" target="blank"><img align="center" src="https://i.imgur.com/21zMdKL.png" alt="kyrie.baran" height="130" width="130" /></a>
+  
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Itsme-soman&repo=KICHU-SER&theme=nightowl)](https://github.com/Itsme-soman/KICHU-SER)
   </div>
     
