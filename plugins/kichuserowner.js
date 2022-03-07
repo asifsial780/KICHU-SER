@@ -11,7 +11,7 @@ const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
             + 'FN:KICHU SER [CREATOR]\n' // full name
             + 'ORG:KICHU-SER;\n' // 
-            + 'TEL;type=CELL;type=VOICE;waid=17623393587:+1 (762) 339-3587\n' // WhatsApp ID + phone number
+            + 'TEL;type=CELL;type=VOICE;waid=918714183251:+91 87141 83251\n' // WhatsApp ID + phone number
             + 'END:VCARD'
 await message.client.sendMessage(message.jid,{displayname: "KICHU-SER [CREATOR]", vcard: vcard}, MessageType.contact)
 }))
