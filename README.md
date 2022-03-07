@@ -40,7 +40,7 @@ Project created by <a href="https://github.com/Itsme-soman">KICHU-SER</a> to mak
     
 <p align="center">
 
-<a href="https://instagram.com/kichu_nrd?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://instagram.com/kichu_nrd?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="100" width="100" /></a>
   
 
   ### Simple Method
@@ -92,7 +92,7 @@ $ node julie.js
   <a href="https://github.com/Itsme-soman/KICHU-SER">
     
 <a href="https://github.com/Itsme-soman/followers">
-<img src="https://img.shields.io/github/repo-size/cyberchekuthan/Kaztroserv1_v2?color=green&label=Repo%20total%20size&style=plastic">
+<img src="https://img.shields.io/github/repo-size/Itsme-soman/KICHU-SER?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/Itsme-soman/followers"
 <img title="Followers" src="https://img.shields.io/github/followers/Aj-fx?color=blue&style=flat-square"></a>
