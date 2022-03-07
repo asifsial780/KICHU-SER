@@ -35,7 +35,13 @@ Project created by <a href="https://github.com/Itsme-soman">KICHU-SER</a> to mak
 
 ## Click the instagram logo to follow this page👀✨
 
- [![ANY DOUBT REFER IT](https://i.imgur.com/cOevAnk.png?size=10)](https://instagram.com/kichu_nrd?utm_medium=copy_link)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF0000&size=30&center=true&vCenter=true&lines=FOLLOW+ME+ON+INSTA...)](https://git.io/typing-svg)
+</p>
+    
+<p align="center">
+
+<a href="https://instagram.com/kichu_nrd?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+  
 
   ### Simple Method
   
