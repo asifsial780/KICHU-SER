@@ -15,7 +15,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
 
 *Owner number : wa.me/918075379950*
 
-*Owner number : wa.me/918714183251*
+*Owner number : wa.me/919961857267*
 
 *Owner number : wa.me/2349053311892*
 
