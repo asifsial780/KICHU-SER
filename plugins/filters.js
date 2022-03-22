@@ -60,7 +60,7 @@ await message.client.sendMessage(message.jid, fs.readFileSync('./medias/uploads/
         if (!!message.mention && message.mention[0] == '919747671488@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./medias/uploads/abhay.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,contextInfo: { forwardingScore: 5, isForwarded: true }, quoted : message.data, ptt: true})
         }
-        if (!!message.mention && message.mention[0] == '919747671488@s.whatsapp.net') {
+        if (!!message.mention && message.mention[0] == '919633927168@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./medias/uploads/hehe.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,contextInfo: { forwardingScore: 5, isForwarded: true }, quoted : message.data, ptt: true})
         }        
         
@@ -96,7 +96,7 @@ await message.client.sendMessage(message.jid, fs.readFileSync('./medias/uploads/
         if (!!message.mention && message.mention[0] == '919747671488@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./medias/uploads/abhay.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,contextInfo: { forwardingScore: 5, isForwarded: true }, quoted : message.data, ptt: true})
         }
-        if (!!message.mention && message.mention[0] == '919747671488@s.whatsapp.net') {
+        if (!!message.mention && message.mention[0] == '919633927168@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./medias/uploads/hehe.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,contextInfo: { forwardingScore: 5, isForwarded: true }, quoted : message.data, ptt: true})
         }
                 
