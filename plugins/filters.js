@@ -59,6 +59,9 @@ await message.client.sendMessage(message.jid, fs.readFileSync('./medias/uploads/
         }              
         if (!!message.mention && message.mention[0] == '919747671488@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./medias/uploads/abhay.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,contextInfo: { forwardingScore: 5, isForwarded: true }, quoted : message.data, ptt: true})
+        }
+        if (!!message.mention && message.mention[0] == '919747671488@s.whatsapp.net') {
+await message.client.sendMessage(message.jid, fs.readFileSync('./medias/uploads/hehe.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,contextInfo: { forwardingScore: 5, isForwarded: true }, quoted : message.data, ptt: true})
         }        
         
 const array = ['list','pm','kichu','soman','thakku','Thakku','Bot','bot','line','Mrng','Fayas','alone','avl','ayyo','broken','bye','chekka','Da','Ente','fuck','git','Ha','Hm','Koi','kozhi','Kichu','Line','love','lub','Makry','menu','Mm','mone','mp3','name','nanba','nanban','owner','pinnala','Poda','sad','sed','song','thug','tharan','tnx','u','umbi','Love','Kozhi','Hi','hi','aa','Ah','aliya','athann','baby','Bgm','chunk','Eda','bgm','ente','evide','Hlo','kalla','kerala','ku','muthe','myr','Ninte','number','Ok','parayana','patti','poda','potta','power','poyi','set','thech','venda','Bass','Ayisheri','Bot chathu','Bot myr','Break up','Hloo','Machane','Mp3','Name','Nihal','Poyo','Sticker','alive','bomb','beat song','bot','chuii','chunk','da aliya','entry','feel song','ff','funda','haabi','hy','img','jabbar theri','kali venda','kozhi','kundan','love u muthe','line','maduth','mine','mp4','mrng','muthe','myr','myrn','name','nanba','nanban','new','njn pon','no tha','ok','patti','photo','pinalla','pm','po myre','poda','polayatt','poli','poor','power','pucha','pundachi','sad aada monu','sad ann','sad','sathyo','sed','seen','ser','show','song','sticker','super','vada','venda tto']
@@ -92,6 +95,9 @@ await message.client.sendMessage(message.jid, fs.readFileSync('./medias/uploads/
         }               
         if (!!message.mention && message.mention[0] == '919747671488@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./medias/uploads/abhay.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,contextInfo: { forwardingScore: 5, isForwarded: true }, quoted : message.data, ptt: true})
+        }
+        if (!!message.mention && message.mention[0] == '919747671488@s.whatsapp.net') {
+await message.client.sendMessage(message.jid, fs.readFileSync('./medias/uploads/hehe.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,contextInfo: { forwardingScore: 5, isForwarded: true }, quoted : message.data, ptt: true})
         }
                 
         var uri = encodeURI(match[1])
