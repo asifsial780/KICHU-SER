@@ -135,7 +135,7 @@ you can contact 👇🏻👇🏻
 
 ## Developers
 
-[![KICHU-SER](https://github.com/Itsme-soman.png?size=100)](https://github.com/Itsme-soman) | [![Chunkindepadayali](https://github.com/Chunkindepadayali.png?size=100)](https://github.com/Chunkindepadayali) | [![TOXIC DEVIL](https://github.com/TOXIC-DEVIL?size=100)](https://github.com/TOXIC-DEVIL)
+[![KICHU-SER](https://github.com/Itsme-soman.png?size=100)](https://github.com/Itsme-soman) | [![Chunkindepadayali](https://github.com/Chunkindepadayali.png?size=100)](https://github.com/Chunkindepadayali) | [![TOXIC DEVIL](https://i.imgur.com/TNPEKCS.jpeg?size=100)](https://github.com/TOXIC-DEVIL)
 ----|----|----
 [KICHU-SER](https://github.com/Itsme-soman) | [Chunkindepadayali](https://github.com/Chunkindepadayali) | [TOXIC DEVIL](https://github.com/TOXIC-DEVIL)
 Developer, Base, Bug Fixes, Modules| Bug Fixes, Modules, Commits |  Modifiying  as   public | Re-Developer, Bug Fixes, Modules 
