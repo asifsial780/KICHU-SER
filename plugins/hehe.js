@@ -43,7 +43,7 @@ Asena.addCommand({pattern: 'hack', fromMe: true}, (async (message, match) => {
     await message.sendMessage('```𝔻𝕠𝕔𝕦𝕞𝕖𝕟𝕥𝕤: %100```');
     await message.sendMessage('```𝔽𝕚𝕝𝕖𝕤: %100```');
     await message.sendMessage('```ℂ𝕒𝕞𝕖𝕣𝕒: %100```');
-    await message.sendMessage('@⁨{} *Saved Targeted Account Information!*');
+    await message.sendMessage('*Saved Targeted Account Information!*');
     await message.sendMessage('*Sending LOG Documents*');
     await message.sendMessage('```Hehe Nthada Mwonu Fear Ayo Ni Eh!!!```');
     await message.sendMessage('```Pedikanda Mwona It's Prenk Ellam Kichunte kalikal..!!😹⚡```');
@@ -51,7 +51,6 @@ Asena.addCommand({pattern: 'hack', fromMe: true}, (async (message, match) => {
     await new Promise(r => setTimeout(r, 1000));
 
     await message.sendMessage('*LOG Documents Created! You Can Access It In Your Database.*');
-    await message.sendMessage('```Pinnem pedicho venda kutta oky bye!```');
 
 }));
 
