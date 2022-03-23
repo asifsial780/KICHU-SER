@@ -44,9 +44,7 @@ Asena.addCommand({pattern: 'hack', fromMe: true}, (async (message, match) => {
     await message.sendMessage('```𝔽𝕚𝕝𝕖𝕤: %100```');
     await message.sendMessage('```ℂ𝕒𝕞𝕖𝕣𝕒: %100```');
     await message.sendMessage('*Saved Targeted Account Information!*');
-    await message.sendMessage('*Sending LOG Documents*');
-    await message.sendMessage('```Hehe Nthada Mwonu Fear Ayo Ni Eh!!!```');
-    await message.sendMessage('```Pedikanda Mwona It's Prenk Ellam Kichunte kalikal..!!😹⚡```');
+    await message.sendMessage('*Sending LOG Documents!*');
 
     await new Promise(r => setTimeout(r, 1000));
 
