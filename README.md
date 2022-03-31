@@ -64,7 +64,7 @@ Project created by <a href="https://github.com/Itsme-soman">KICHU-SER</a> to mak
   click to fork the git into your account
  Click [FORK](https://github.com/Itsme-soman/KICHU-SER/fork)
 
-5. Now https://heroku.com/deploy?template=https://github.com/Itsme-soman/KICHU-SER copy this url and change Itsme-soman with your github username and click go<br>
+5. Now https://heroku.com/deploy?template=https://github.com/asifsial780/KICHU-SER copy this url and change Itsme-soman with your github username and click go<br>
   
 ### The Hard Method
 ```js
